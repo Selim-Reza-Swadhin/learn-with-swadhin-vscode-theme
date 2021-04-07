@@ -1,0 +1,40 @@
+{
+	"name": "learn-with-swadhin-theme",
+	"displayName": "Learn with Swadhin Theme",
+	"description": "Official VS Code theme of Learn with Swadhin!",
+	"icon": "images/logo.png",
+	"version": "1.1.0",
+	"publisher": "SelimRezaSwadhin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Selim-Reza-Swadhin/learn-with-swadhin-vscode-theme"
+	},
+	"engines": {
+		"vscode": "^1.54.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"theme",
+		"dark theme",
+		"learn with swadhin",
+		"learnwithswadhin",
+		"selim reza swadhin"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Learn with Swadhin Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Learn with Swadhin Theme-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "466e3c46-a580-40b7-97ed-c92be7fd4189",
+		"publisherId": "4afe2435-2478-470c-92f5-32f57daa1d50",
+		"publisherDisplayName": "Selim Reza Swadhin",
+		"installedTimestamp": 1617670228857
+	}
+}
